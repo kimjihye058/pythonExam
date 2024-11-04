@@ -1,1 +1,1 @@
-__all__ = ['cookie']
+__all__ = ['cookie', 'chocolate', 'jelly']
