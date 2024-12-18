@@ -1,4 +1,4 @@
-def multi_num(multi, start, end):       # multi의 배수를 구하는 함수
+def multi_num(multi, start, end):   # multi의 배수를 구하는 함수
     result = []                     # 빈 리스트 생성
     for n in range(start, end):     # start부터 end-1까지 반복
         if n % multi == 0:          # multi의 배수인가?
